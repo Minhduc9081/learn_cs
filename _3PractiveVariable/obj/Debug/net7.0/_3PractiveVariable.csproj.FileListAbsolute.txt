@@ -1,0 +1,14 @@
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/bin/Debug/net7.0/_3PractiveVariable
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/bin/Debug/net7.0/_3PractiveVariable.deps.json
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/bin/Debug/net7.0/_3PractiveVariable.runtimeconfig.json
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/bin/Debug/net7.0/_3PractiveVariable.dll
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/bin/Debug/net7.0/_3PractiveVariable.pdb
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/obj/Debug/net7.0/_3PractiveVariable.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/obj/Debug/net7.0/_3PractiveVariable.AssemblyInfoInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/obj/Debug/net7.0/_3PractiveVariable.AssemblyInfo.cs
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/obj/Debug/net7.0/_3PractiveVariable.csproj.CoreCompileInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/obj/Debug/net7.0/_3PractiveVariable.dll
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/obj/Debug/net7.0/refint/_3PractiveVariable.dll
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/obj/Debug/net7.0/_3PractiveVariable.pdb
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/obj/Debug/net7.0/_3PractiveVariable.genruntimeconfig.cache
+/home/stormz/RiderProjects/HelloWorld/_3PractiveVariable/obj/Debug/net7.0/ref/_3PractiveVariable.dll

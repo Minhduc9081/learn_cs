@@ -1,0 +1,14 @@
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/bin/Debug/net7.0/PractiveVariable
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/bin/Debug/net7.0/PractiveVariable.deps.json
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/bin/Debug/net7.0/PractiveVariable.runtimeconfig.json
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/bin/Debug/net7.0/PractiveVariable.dll
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/bin/Debug/net7.0/PractiveVariable.pdb
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/obj/Debug/net7.0/PractiveVariable.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/obj/Debug/net7.0/PractiveVariable.AssemblyInfoInputs.cache
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/obj/Debug/net7.0/PractiveVariable.AssemblyInfo.cs
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/obj/Debug/net7.0/PractiveVariable.csproj.CoreCompileInputs.cache
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/obj/Debug/net7.0/PractiveVariable.dll
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/obj/Debug/net7.0/refint/PractiveVariable.dll
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/obj/Debug/net7.0/PractiveVariable.pdb
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/obj/Debug/net7.0/PractiveVariable.genruntimeconfig.cache
+/home/stormz/RiderProjects/HelloWorld/PractiveVariable/obj/Debug/net7.0/ref/PractiveVariable.dll

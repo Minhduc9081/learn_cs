@@ -1,0 +1,14 @@
+/home/stormz/RiderProjects/HelloWorld/Variable/bin/Debug/net7.0/Variable
+/home/stormz/RiderProjects/HelloWorld/Variable/bin/Debug/net7.0/Variable.deps.json
+/home/stormz/RiderProjects/HelloWorld/Variable/bin/Debug/net7.0/Variable.runtimeconfig.json
+/home/stormz/RiderProjects/HelloWorld/Variable/bin/Debug/net7.0/Variable.dll
+/home/stormz/RiderProjects/HelloWorld/Variable/bin/Debug/net7.0/Variable.pdb
+/home/stormz/RiderProjects/HelloWorld/Variable/obj/Debug/net7.0/Variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormz/RiderProjects/HelloWorld/Variable/obj/Debug/net7.0/Variable.AssemblyInfoInputs.cache
+/home/stormz/RiderProjects/HelloWorld/Variable/obj/Debug/net7.0/Variable.AssemblyInfo.cs
+/home/stormz/RiderProjects/HelloWorld/Variable/obj/Debug/net7.0/Variable.csproj.CoreCompileInputs.cache
+/home/stormz/RiderProjects/HelloWorld/Variable/obj/Debug/net7.0/Variable.dll
+/home/stormz/RiderProjects/HelloWorld/Variable/obj/Debug/net7.0/refint/Variable.dll
+/home/stormz/RiderProjects/HelloWorld/Variable/obj/Debug/net7.0/Variable.pdb
+/home/stormz/RiderProjects/HelloWorld/Variable/obj/Debug/net7.0/Variable.genruntimeconfig.cache
+/home/stormz/RiderProjects/HelloWorld/Variable/obj/Debug/net7.0/ref/Variable.dll
