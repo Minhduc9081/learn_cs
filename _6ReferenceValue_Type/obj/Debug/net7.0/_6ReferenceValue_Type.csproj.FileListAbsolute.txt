@@ -1,0 +1,14 @@
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/bin/Debug/net7.0/_6ReferenceValue_Type
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/bin/Debug/net7.0/_6ReferenceValue_Type.deps.json
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/bin/Debug/net7.0/_6ReferenceValue_Type.runtimeconfig.json
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/bin/Debug/net7.0/_6ReferenceValue_Type.dll
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/bin/Debug/net7.0/_6ReferenceValue_Type.pdb
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/obj/Debug/net7.0/_6ReferenceValue_Type.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/obj/Debug/net7.0/_6ReferenceValue_Type.AssemblyInfoInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/obj/Debug/net7.0/_6ReferenceValue_Type.AssemblyInfo.cs
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/obj/Debug/net7.0/_6ReferenceValue_Type.csproj.CoreCompileInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/obj/Debug/net7.0/_6ReferenceValue_Type.dll
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/obj/Debug/net7.0/refint/_6ReferenceValue_Type.dll
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/obj/Debug/net7.0/_6ReferenceValue_Type.pdb
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/obj/Debug/net7.0/_6ReferenceValue_Type.genruntimeconfig.cache
+/home/stormz/RiderProjects/HelloWorld/_6ReferenceValue_Type/obj/Debug/net7.0/ref/_6ReferenceValue_Type.dll

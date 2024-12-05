@@ -1,0 +1,14 @@
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/bin/Debug/net7.0/_4StringDataType
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/bin/Debug/net7.0/_4StringDataType.deps.json
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/bin/Debug/net7.0/_4StringDataType.runtimeconfig.json
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/bin/Debug/net7.0/_4StringDataType.dll
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/bin/Debug/net7.0/_4StringDataType.pdb
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/obj/Debug/net7.0/_4StringDataType.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/obj/Debug/net7.0/_4StringDataType.AssemblyInfoInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/obj/Debug/net7.0/_4StringDataType.AssemblyInfo.cs
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/obj/Debug/net7.0/_4StringDataType.csproj.CoreCompileInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/obj/Debug/net7.0/_4StringDataType.dll
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/obj/Debug/net7.0/refint/_4StringDataType.dll
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/obj/Debug/net7.0/_4StringDataType.pdb
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/obj/Debug/net7.0/_4StringDataType.genruntimeconfig.cache
+/home/stormz/RiderProjects/HelloWorld/_4StringDataType/obj/Debug/net7.0/ref/_4StringDataType.dll
