@@ -1,0 +1,14 @@
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/bin/Debug/net7.0/_7BasicInputAndOuput
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/bin/Debug/net7.0/_7BasicInputAndOuput.deps.json
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/bin/Debug/net7.0/_7BasicInputAndOuput.runtimeconfig.json
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/bin/Debug/net7.0/_7BasicInputAndOuput.dll
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/bin/Debug/net7.0/_7BasicInputAndOuput.pdb
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/obj/Debug/net7.0/_7BasicInputAndOuput.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/obj/Debug/net7.0/_7BasicInputAndOuput.AssemblyInfoInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/obj/Debug/net7.0/_7BasicInputAndOuput.AssemblyInfo.cs
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/obj/Debug/net7.0/_7BasicInputAndOuput.csproj.CoreCompileInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/obj/Debug/net7.0/_7BasicInputAndOuput.dll
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/obj/Debug/net7.0/refint/_7BasicInputAndOuput.dll
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/obj/Debug/net7.0/_7BasicInputAndOuput.pdb
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/obj/Debug/net7.0/_7BasicInputAndOuput.genruntimeconfig.cache
+/home/stormz/RiderProjects/HelloWorld/_7BasicInputAndOuput/obj/Debug/net7.0/ref/_7BasicInputAndOuput.dll

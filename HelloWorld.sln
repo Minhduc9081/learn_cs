@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5CodeRules", "_5CodeRules\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_6ReferenceValue_Type", "_6ReferenceValue_Type\_6ReferenceValue_Type.csproj", "{C5D7FDE2-F7E9-4FDE-A07D-69AD02BC49D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7BasicInputAndOuput", "_7BasicInputAndOuput\_7BasicInputAndOuput.csproj", "{5BD29AB4-8D67-4216-8CE2-A69F6ED89B1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{C5D7FDE2-F7E9-4FDE-A07D-69AD02BC49D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5D7FDE2-F7E9-4FDE-A07D-69AD02BC49D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5D7FDE2-F7E9-4FDE-A07D-69AD02BC49D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD29AB4-8D67-4216-8CE2-A69F6ED89B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD29AB4-8D67-4216-8CE2-A69F6ED89B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD29AB4-8D67-4216-8CE2-A69F6ED89B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD29AB4-8D67-4216-8CE2-A69F6ED89B1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
