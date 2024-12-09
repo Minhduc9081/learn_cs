@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/stormz/.dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
       }
     }
   }

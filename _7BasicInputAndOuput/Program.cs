@@ -2,7 +2,7 @@
 
 using System.Numerics;
 
-namespace HelloWorld
+namespace _7BasicInputAndOuput
 {
     internal class Program
     {
@@ -51,12 +51,12 @@ namespace HelloWorld
             // Console.WriteLine($"Name: {name}, Age: {age}, Address: {addr}");
             
             //Bài tập 7: Tính chu vi và diện tích hình chữ nhật
-            // Console.Write("Enter length: ");
-            // float l = float.Parse(Console.ReadLine());
-            // Console.Write("Enter width: ");
-            // float w = float.Parse(Console.ReadLine());  
-            //
-            // Console.WriteLine($"S = {l*w}, V = {2*(l+w)}");
+            Console.Write("Enter length: ");
+            float l = float.Parse(Console.ReadLine());
+            Console.Write("Enter width: ");
+            float w = float.Parse(Console.ReadLine());  
+            
+            Console.WriteLine($"S = {l*w}, P = {2*(l+w)}");
         }   
     }
 }   

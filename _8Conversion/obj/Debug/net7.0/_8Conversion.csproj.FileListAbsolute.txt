@@ -1,0 +1,14 @@
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/bin/Debug/net7.0/_8Conversion
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/bin/Debug/net7.0/_8Conversion.deps.json
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/bin/Debug/net7.0/_8Conversion.runtimeconfig.json
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/bin/Debug/net7.0/_8Conversion.dll
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/bin/Debug/net7.0/_8Conversion.pdb
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/obj/Debug/net7.0/_8Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/obj/Debug/net7.0/_8Conversion.AssemblyInfoInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/obj/Debug/net7.0/_8Conversion.AssemblyInfo.cs
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/obj/Debug/net7.0/_8Conversion.csproj.CoreCompileInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/obj/Debug/net7.0/_8Conversion.dll
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/obj/Debug/net7.0/refint/_8Conversion.dll
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/obj/Debug/net7.0/_8Conversion.pdb
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/obj/Debug/net7.0/_8Conversion.genruntimeconfig.cache
+/home/stormz/RiderProjects/HelloWorld/_8Conversion/obj/Debug/net7.0/ref/_8Conversion.dll
