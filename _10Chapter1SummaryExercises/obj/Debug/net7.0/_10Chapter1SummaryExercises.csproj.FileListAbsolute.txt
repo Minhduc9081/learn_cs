@@ -1,0 +1,14 @@
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/bin/Debug/net7.0/_10Chapter1SummaryExercises
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/bin/Debug/net7.0/_10Chapter1SummaryExercises.deps.json
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/bin/Debug/net7.0/_10Chapter1SummaryExercises.runtimeconfig.json
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/bin/Debug/net7.0/_10Chapter1SummaryExercises.dll
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/bin/Debug/net7.0/_10Chapter1SummaryExercises.pdb
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/obj/Debug/net7.0/_10Chapter1SummaryExercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/obj/Debug/net7.0/_10Chapter1SummaryExercises.AssemblyInfoInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/obj/Debug/net7.0/_10Chapter1SummaryExercises.AssemblyInfo.cs
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/obj/Debug/net7.0/_10Chapter1SummaryExercises.csproj.CoreCompileInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/obj/Debug/net7.0/_10Chapter1SummaryExercises.dll
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/obj/Debug/net7.0/refint/_10Chapter1SummaryExercises.dll
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/obj/Debug/net7.0/_10Chapter1SummaryExercises.pdb
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/obj/Debug/net7.0/_10Chapter1SummaryExercises.genruntimeconfig.cache
+/home/stormz/RiderProjects/HelloWorld/_10Chapter1SummaryExercises/obj/Debug/net7.0/ref/_10Chapter1SummaryExercises.dll
