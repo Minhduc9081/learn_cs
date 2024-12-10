@@ -1,0 +1,14 @@
+/home/stormz/RiderProjects/HelloWorld/_11Method/bin/Debug/net7.0/_11Method
+/home/stormz/RiderProjects/HelloWorld/_11Method/bin/Debug/net7.0/_11Method.deps.json
+/home/stormz/RiderProjects/HelloWorld/_11Method/bin/Debug/net7.0/_11Method.runtimeconfig.json
+/home/stormz/RiderProjects/HelloWorld/_11Method/bin/Debug/net7.0/_11Method.dll
+/home/stormz/RiderProjects/HelloWorld/_11Method/bin/Debug/net7.0/_11Method.pdb
+/home/stormz/RiderProjects/HelloWorld/_11Method/obj/Debug/net7.0/_11Method.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormz/RiderProjects/HelloWorld/_11Method/obj/Debug/net7.0/_11Method.AssemblyInfoInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_11Method/obj/Debug/net7.0/_11Method.AssemblyInfo.cs
+/home/stormz/RiderProjects/HelloWorld/_11Method/obj/Debug/net7.0/_11Method.csproj.CoreCompileInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_11Method/obj/Debug/net7.0/_11Method.dll
+/home/stormz/RiderProjects/HelloWorld/_11Method/obj/Debug/net7.0/refint/_11Method.dll
+/home/stormz/RiderProjects/HelloWorld/_11Method/obj/Debug/net7.0/_11Method.pdb
+/home/stormz/RiderProjects/HelloWorld/_11Method/obj/Debug/net7.0/_11Method.genruntimeconfig.cache
+/home/stormz/RiderProjects/HelloWorld/_11Method/obj/Debug/net7.0/ref/_11Method.dll
