@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/stormz/RiderProjects/HelloWorld/_8Conversion/_8Conversion.csproj",
-      "projectName": "_8Conversion",
-      "projectPath": "/home/stormz/RiderProjects/HelloWorld/_8Conversion/_8Conversion.csproj",
+      "projectUniqueName": "/home/stormz/RiderProjects/HelloWorld/_9Constant/_9Constant.csproj",
+      "projectName": "_9Constant",
+      "projectPath": "/home/stormz/RiderProjects/HelloWorld/_9Constant/_9Constant.csproj",
       "packagesPath": "/home/stormz/.nuget/packages/",
-      "outputPath": "/home/stormz/RiderProjects/HelloWorld/_8Conversion/obj/",
+      "outputPath": "/home/stormz/RiderProjects/HelloWorld/_9Constant/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/stormz/.nuget/NuGet/NuGet.Config"

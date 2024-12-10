@@ -1,0 +1,14 @@
+/home/stormz/RiderProjects/HelloWorld/_9Constant/bin/Debug/net7.0/_9Constant
+/home/stormz/RiderProjects/HelloWorld/_9Constant/bin/Debug/net7.0/_9Constant.deps.json
+/home/stormz/RiderProjects/HelloWorld/_9Constant/bin/Debug/net7.0/_9Constant.runtimeconfig.json
+/home/stormz/RiderProjects/HelloWorld/_9Constant/bin/Debug/net7.0/_9Constant.dll
+/home/stormz/RiderProjects/HelloWorld/_9Constant/bin/Debug/net7.0/_9Constant.pdb
+/home/stormz/RiderProjects/HelloWorld/_9Constant/obj/Debug/net7.0/_9Constant.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormz/RiderProjects/HelloWorld/_9Constant/obj/Debug/net7.0/_9Constant.AssemblyInfoInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_9Constant/obj/Debug/net7.0/_9Constant.AssemblyInfo.cs
+/home/stormz/RiderProjects/HelloWorld/_9Constant/obj/Debug/net7.0/_9Constant.csproj.CoreCompileInputs.cache
+/home/stormz/RiderProjects/HelloWorld/_9Constant/obj/Debug/net7.0/_9Constant.dll
+/home/stormz/RiderProjects/HelloWorld/_9Constant/obj/Debug/net7.0/refint/_9Constant.dll
+/home/stormz/RiderProjects/HelloWorld/_9Constant/obj/Debug/net7.0/_9Constant.pdb
+/home/stormz/RiderProjects/HelloWorld/_9Constant/obj/Debug/net7.0/_9Constant.genruntimeconfig.cache
+/home/stormz/RiderProjects/HelloWorld/_9Constant/obj/Debug/net7.0/ref/_9Constant.dll
